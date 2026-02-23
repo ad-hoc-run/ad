@@ -83,7 +83,10 @@ button:hover {
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
   flex-wrap: wrap;
-  height: 42px;
+}
+
+.topbar div {
+  height: 24px;
 }
 
 .prompt {
